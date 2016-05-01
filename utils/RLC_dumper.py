@@ -59,8 +59,8 @@ def manifest():
   <modelNumber>1.0</modelNumber>\r\n\
   <modelURL>http://www.samsung.com/sec</modelURL>\r\n\
   <serialNumber>20090804RCS</serialNumber>\r\n\
-  <UDN>uuid:0a21fe81-00aa-1000-8787-f47b5e7620f1</UDN>\r\n\
-  <sec:deviceID>BDCHCBZODCVXU</sec:deviceID>\r\n\
+  <UDN>uuid:01234567-89ab-cdef-0123-456789abcdef</UDN>\r\n\
+  <sec:deviceID>ABCDEFGHILMNO</sec:deviceID>\r\n\
   <sec:ProductCap>Resolution:1920X1080,ImageZoom,ImageRotate,Y2013</sec:ProductCap>\r\n\
   <serviceList>\r\n\
    <service>\r\n\
