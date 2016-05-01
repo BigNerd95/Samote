@@ -16,7 +16,7 @@ With auto detect I can specify the port where to request the xml, so forcing it 
 #### Key Codes compatibility
 If some commands doesn't work, you can modify the file key_codes.conf
 
-To discover the commands of the remote App you can use my python utils (/uitls/ folder of this project)
+To discover the commands of the remote App you can use my python utils (/utils/ folder of this project)
 
 ---
 
