@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<root xmlns='urn:schemas-upnp-org:device-1-0' xmlns:sec='http://www.sec.co.kr/dlna' xmlns:dlna='urn:schemas-dlna-org:device-1-0'>
+  <specVersion>
+    <major>1</major>
+    <minor>0</minor>
+  </specVersion>
+  <device>
+    <deviceType>urn:samsung.com:device:RemoteControlReceiver:1</deviceType>
+    <friendlyName>[TV]SamyGO 2009</friendlyName>
+    <manufacturer>Samsung Electronics</manufacturer>
+    <manufacturerURL>http://www.samsung.com/sec</manufacturerURL>
+    <modelDescription>Samsung TV RCR</modelDescription>
+    <modelName>UN55F6300</modelName>
+    <modelNumber>1.0</modelNumber>
+    <modelURL>http://www.samsung.com/sec</modelURL>
+    <serialNumber>20090804RCS</serialNumber>
+    <UDN>uuid:01234567-89ab-cdef-0123-456789abcdef</UDN>
+    <sec:deviceID>ABCDEFGHIELMN</sec:deviceID>
+    <sec:ProductCap>Resolution:1920X1080,ImageZoom,ImageRotate,Y2013</sec:ProductCap>
+    <serviceList>
+      <service>
+        <serviceType>urn:samsung.com:service:MultiScreenService:1</serviceType>
+        <serviceId>urn:samsung.com:serviceId:MultiScreenService</serviceId>
+        <controlURL>/smp_8_</controlURL>
+        <eventSubURL>/smp_9_</eventSubURL>
+        <SCPDURL>/smp_7_</SCPDURL>
+      </service>
+    </serviceList>
+  </device>
+</root>

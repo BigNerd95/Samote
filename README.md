@@ -25,6 +25,6 @@ To discover the commands of the remote App you can use my python utils (/uitls/ 
 1. Cross compile with a toolchain from SamyGO or use my precompiled binaries
 2. Copy the content of /bin/ folder inside /mtd_rwarea/Samote/
 3. Download busybox for ARM from (https://busybox.net/downloads/binaries/latest/) and put it in /mtd_rwarea/
-4. Run busybox: `/mtd_rwarea/busybox-armv7l httpd -h /mtd_rwarea/Samote/upnp/`
+4. Run httpd: `/mtd_rwarea/busybox-armv7l httpd -h /mtd_rwarea/Samote/upnp/`
 5. Run Samote: `/mtd_rwarea/injectso $(pidof exeDSP) /mtd_rwarea/Samote/loader.so Game_Main /mtd_rwarea/Samote/`
 
